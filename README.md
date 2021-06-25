@@ -4,7 +4,7 @@
   
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Youn's&height=170)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Chaeyaon's&height=170)
 <h1 align="center">📑 ChaeyeonKim's GitHub 📑</h1>
 
 <h3>💯 Programming Language I've studied 💯</h3>
