@@ -4,7 +4,10 @@
   
 </div>
 
-<h1 align="center">📑 ChaeyeonKim's GitHub 📑</h1>
+<h1 align="center">🌎 Hello ChaeyeonKim's GitHub 🌎</h1>
+<div>- 🔭 현재 삼성 청년 SW 아카데미에서 공부하고 있습니다. </div>
+<div>- 🌱 요즘 공부하는 것들은 알고리즘 & 웹 입니다. </div>
+<div>- 👯 반갑습니다~ </div>
 
 <h3>💯 Programming Language I've studied 💯</h3>
 
