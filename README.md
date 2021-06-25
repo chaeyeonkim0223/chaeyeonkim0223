@@ -4,7 +4,6 @@
   
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Chaeyaon's&height=170)
 <h1 align="center">📑 ChaeyeonKim's GitHub 📑</h1>
 
 <h3>💯 Programming Language I've studied 💯</h3>
@@ -20,7 +19,7 @@
 
 ### 📊 My Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyeonkim0223&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaeyeonkim0223)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧾 Used Language
 
