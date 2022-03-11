@@ -7,7 +7,7 @@
 <h1 align="center">채연 GitHub</h1>
 <div>- 👩‍🎓 [2017.03~2021.02] 인천대학교 정보통신공학과 졸업</div>
 <div>- 🌱 [2021.01~2021.09] 삼성 청년 SW 아카데미 5기</div>
-<div>- 💻 [2021.10~ing] KT DS SI개발팀</div>
+<!--<div>- 💻 [2021.10~ing] KT DS SI개발팀</div>-->
 
 ### ✔ Programming Language I've studied
 
